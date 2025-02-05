@@ -1,13 +1,13 @@
 {
-	"response": [
+        "response": [
       {
-		"datetime": 1738181884,
-		"filename": "ProjectPixelage-v2.4-sweet-15.0-MINKAN-20250129-2020.zip",
-		"id": "b5cadbc01a5f24ec39ed09e89e08addd4a6bd84fc21dceff9a7f60aea9750cb2",
-		"romtype": "UNOFFICIAL",
-		"size": 2417192522,
-		"url": "https://sourceforge.net/projects/builds0/files/ProjectPixelage-v2.4-sweet-15.0-MINKAN-20250129-2020.zip/download",
-		"version": "2.4"
-	  }
-	]
+                "datetime": 1738775194,
+                "filename": "ProjectPixelage-v2.5-sweet-15.0-MINKAN-20250205-1708.zip",
+                "id": "8fe60649e6eba258c46d4704e37f3f8e6490b866d48cda30b6c70e32634e4778",
+                "romtype": "UNOFFICIAL",
+                "size": 2430411406,
+                "url": "https://sourceforge.net/projects/builds0/files/ProjectPixelage-v2.5-sweet-15.0-MINKAN-20250205-1708.zip/download",
+                "version": "2.5"
+          }
+        ]
 }
