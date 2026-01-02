@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1762643611,
-      "filename": "PixelOS_sweet-16.0-20251108-2316.zip",
-      "id": "e02ebcbd3b4c974918038c7a0183abb4",
-      "size": 2698376885,
-      "url": "https://sourceforge.net/projects/builds0/files/sweet/16/PixelOS_sweet-16.0-20251108-2316.zip/download",
+      "datetime": 1767327161,
+      "filename": "PixelOS_sweet-16.1-20260102-0415.zip",
+      "id": "874523c811e045c959ee702fa151a38fced1cf94c3f72dabdc9de6435e351288",
+      "size": 2793669008,
+      "url": "https://onedrive-cf-index-ng-aan.pages.dev/api/raw?path=/sweet/PixelOS_sweet-16.1-20260102-0415.zip",
       "version": "16"
     }
   ]
