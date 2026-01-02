@@ -1,5 +1,5 @@
 ### 02-Jan-2026
-\- Dropped Alert Slider Dialog
+\- Picked Latest Alert Slider Dialog Changes from LineageOS
 
 \- Update cutout strings
 
