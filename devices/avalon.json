@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1767323506,
-      "filename": "PixelOS_avalon-16.1-20260102-0313.zip",
-      "id": "5187c3191084314e2c1686b9d2495086156b0c9ca12ad1a7d827340ff560de74",
-      "size": 3597918585,
-      "url": "https://onedrive-cf-index-ng-aan.pages.dev/api/raw?path=/ota/PixelOS_avalon-16.1-20260102-0313.zip",
+      "datetime": 1769876459,
+      "filename": "PixelOS_avalon-16.1-20260131-1621.zip",
+      "id": "b4323528f2838765833cd4e896f5e44ddbfca32f710a676650e14c6ee047e538",
+      "size": 3593200340,
+      "url": "https://sourceforge.net/projects/builds0/files/avalon/16/PixelOS_avalon-16.1-20260131-1621.zip/download",
       "version": "16"
     }
   ]

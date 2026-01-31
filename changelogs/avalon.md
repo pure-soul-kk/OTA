@@ -1,16 +1,11 @@
-### 02-Jan-2026
-\- Picked Latest Alert Slider Dialog Changes from LineageOS
+### 31-Jan-2026
 
-\- Update cutout strings
+\- Synced with latest PixelOS and LineageOS QPR1 source changes
 
-\- Various init changes
+\- Updated to Jan ASB
 
-\- Fixed Some Autobrightness issues
+\- Moved LockScreen Keyguard text above UDFPS icon
 
-\- ConsumerIR: Update from CPH2573_16.0.2.400(EX01)
+\- Switched and Updated Sony Dolby Blobs from pdx234
 
-\- Kernel, Kernel {modules,devicetrees}: Update from CPH2573_16.0.2.400(EX01)
-
-\- Merge tag 6.1.159 into Kernel
-
-\- And a Happy New Year to whoever reading this 
+\- And various underhood changes i don't remember
